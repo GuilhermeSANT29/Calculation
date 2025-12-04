@@ -1,7 +1,7 @@
 # Função de menu para a calculadora
 def menu_calculadora():
     while True:
-        print("\n--- Menu da Calculadora ---")
+        print("\n--- Menu da Calculadora de conversão---")
         print("1. Binário para Decimal")
         print("2. Decimal para Binário")
         print("3. Decimal para Hexadecimal")
